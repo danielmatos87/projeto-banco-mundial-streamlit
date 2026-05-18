@@ -5,7 +5,7 @@ A educação é amplamente apontada como o pilar fundamental para o desenvolvime
 
 ### 🌐 Fonte dos Dados
 *   **API Utilizada:** [World Bank Data API](https://datahelpdesk.worldbank.org/knowledgebase/topics/1255-world-bank-group-api)
-*   **Descrição:** Coleta automatizada de indicadores macroeconômicos globais filtrados no período de 2010 a 2024. Os indicadores analisados incluem o PIB per capita (USD atual) e o Investimento em Educação (% do PIB).
+*   **Descrição:** Coleta automatizada de indicadores macroeconômicos globais filtrados no período de 2010 a 2025. Os indicadores analisados incluem o PIB per capita (USD atual) e o Investimento em Educação (% do PIB).
 
 ### ❓ Perguntas-Chave Respondidas
 1. Existe uma correlação real e estatisticamente significativa entre o aumento do investimento em educação e o crescimento do PIB per capita?
