@@ -18,7 +18,7 @@ A educação é amplamente apontada como o pilar fundamental para o desenvolvime
    git clone [https://github.com/danielmatos87/projeto-banco-mundial-streamlit.git](https://github.com/danielmatos87/projeto-banco-mundial-streamlit.git)
    cd projeto-banco-mundial-streamlit
 
-### 📸 Captura de Tela (Screenshot)"
-![Print do Dashboard do Projeto](./Streamlit.png)
+### 📸 Captura de Tela (Screenshot)
+![Print do Dashboard do Projeto](Streamlit.PNG)
 
 "Captura de tela exibindo a análise comparativa entre Brasil, Estados Unidos e Alemanha com o intervalo de anos selecionado."
